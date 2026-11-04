@@ -1,4 +1,8 @@
 welcome to jnnce
 hi
 Modified in github
+
 Altered in gitbash
+
+Altered in github
+
